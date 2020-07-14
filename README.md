@@ -2,6 +2,8 @@
 Hmm.. I guess I can't think of anything clever to put here just yet.  
 Maybe tomorrow.
 
+<img src="https://media-exp1.licdn.com/dms/image/C4E1BAQGKaZYIDH-u6A/company-background_10000/0?e=1594843200&v=beta&t=HRVOyZydOg7Avlod77BDni74JebV_1NsOf7ZtOeofA4">
+
 <!--
 **badcat/badcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
