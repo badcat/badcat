@@ -1,4 +1,6 @@
 ### Hello world 👋
+Hmm.. I guess I can't think of anything clever to put here just yet.  
+Maybe tomorrow.
 
 <!--
 **badcat/badcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
