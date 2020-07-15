@@ -3,7 +3,7 @@ Hmm.. I guess I can't think of anything clever to put here just yet.
 Maybe tomorrow.
 <!-- <img src="https://media-exp1.licdn.com/dms/image/C4E1BAQGKaZYIDH-u6A/company-background_10000/0?e=1594843200&v=beta&t=HRVOyZydOg7Avlod77BDni74JebV_1NsOf7ZtOeofA4"> -->
 
-<img src="purple-fur.jpg" alt="fur">
+<img src="https://github.com/badcat/badcat/raw/master/purple-fur.jpg" alt="fur">
 
 
 <!--
