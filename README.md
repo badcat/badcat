@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BadCat.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)We are BadCat.
 ===========================================================================================================================================
 
-Web Designer and Accidental Developer
+A Web Designer and Sometimes Accidental Developer
 -------------------------------------
 
-Designing longer than Google has been around
+Designing longer than Google has been around. No really.
 
-*   🌍  I'm based in New Hope, PA
-*   🖥️  See my portfolio at [BadCat.com](http://www.badcat.com)
-*   🚀  I'm currently working on [a Secret Project](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
-*   🧠  I'm learning Moar JS
-*   🤝  I'm open to collaborating on SVG Editors
+*   🌍  We're based in New Hope, PA
+*   🖥️  See our site: [BadCat.com](http://www.badcat.com)
+*   🚀  Currently working on [a Secret Project](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+*   🧠  Learning Moar JS
+*   🤝  We're open to collaborating on SVG Editors
 *   
  ### Skills 
 <p align="left">
@@ -30,7 +30,7 @@ Designing longer than Google has been around
 <a href="https://www.dev.to/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://www.dribbble.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/badcat.design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://badcat.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/badcatdesign" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.polywork.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
