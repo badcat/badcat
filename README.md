@@ -25,9 +25,9 @@ Designing longer than Google has been around
                     
 ### Socials
  <p align="left">
-<a href="https://www.codepen.io/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
- <a href="https://codesandbox.io/u/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a>
-<a href="https://www.dev.to/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
+<a href="https://www.codepen.io/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+ <a href="https://codesandbox.io/u/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 <a href="https://www.dribbble.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/badcat.design" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/badcat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -40,26 +40,3 @@ Designing longer than Google has been around
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/badcatdesign"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-<!--
-### Hello world 👋
-Hmm.. I guess I can't think of anything clever to put here just yet.  
-Maybe tomorrow. Probably not.
-<!-- <img src="https://media-exp1.licdn.com/dms/image/C4E1BAQGKaZYIDH-u6A/company-background_10000/0?e=1594843200&v=beta&t=HRVOyZydOg7Avlod77BDni74JebV_1NsOf7ZtOeofA4"> -->
-
-<img src="https://github.com/badcat/badcat/raw/master/purple-fur.jpg" alt="fur">
-
-
-**badcat/badcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
